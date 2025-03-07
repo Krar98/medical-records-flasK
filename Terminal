@@ -1,0 +1,4 @@
+mkdir medical-records && cd medical-records  # إنشاء مجلد والدخول إليه
+touch database.py app.py requirements.txt  # إنشاء الملفات الأساسية
+mkdir templates  # إنشاء مجلد للواجهات
+touch templates/index.html  # إنشاء ملف الواجهة
